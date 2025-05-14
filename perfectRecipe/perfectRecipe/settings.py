@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'Blogs',
     'Search',
     'Favourite',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
