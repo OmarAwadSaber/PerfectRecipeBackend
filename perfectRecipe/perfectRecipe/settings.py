@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'Search',
     'Favourite',
     'rest_framework',
+    'django_extensions',
 ]
 
 MIDDLEWARE = [
